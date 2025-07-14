@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan David Romero Sánchez</h1>
-<h3 align="center">Backend software developer with more than 4 years of freelance experience and 1.5 years certified in the creation and maintenance of robust and scalable applications. Expert in programming languages ​​such as PHP and JavaScript, as well as relational and non-relational databases. Skilled in implementing APIs and web services, with a focus on optimizing performance and security. Proactive, with a strong ability to solve complex problems and work as a team to achieve innovative solutions.</h3>
+<h3 align="center">Backend software developer with more than 2 years of freelance experience and 3 years certified in the creation and maintenance of robust and scalable applications. Expert in programming languages ​​such as PHP and JavaScript, as well as relational and non-relational databases. Skilled in implementing APIs and web services, with a focus on optimizing performance and security. Proactive, with a strong ability to solve complex problems and work as a team to achieve innovative solutions.</h3>
 
 - 🔭 I’m currently working on [Course-Online](https://github.com/juanmac09/online-course)
 
